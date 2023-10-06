@@ -18,7 +18,6 @@ body {
  transform-style: preserve-3d;
  transform: perspective(2500px);
  transition: 1s;
- left: -550px;
 }
 
 .cardFront {
@@ -43,26 +42,11 @@ body {
  position: absolute;
 }
 
-.cheems2 {
-    margin-left: 200px;
-}
 .cheems4 {
  position: absolute;
  width: 230px;
  height: 230px;
  padding-left: 10px;
-}
-
-.cheems5 {
-    position: relative;
-    left: -50px;
-}
-
-.cheems6 {
-    position: relative;
-    right: -300px;
-    top: 50px;
-    width: 150%;
 }
 
 .cardInside {
